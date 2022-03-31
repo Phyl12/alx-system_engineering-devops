@@ -1,1 +1,1 @@
-Grit
+Grit and effort
