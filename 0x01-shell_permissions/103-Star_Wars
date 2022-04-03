@@ -1,1 +1,2 @@
--e#!/bin/bash\ntelnet towel.blinkenlights
+#!/bin/bash
+telnet towel.blinkenlights
